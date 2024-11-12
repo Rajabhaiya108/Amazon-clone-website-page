@@ -1,2 +1,3 @@
 # Amazon-clone-website-page
-Create a webpage using HTML and CSS(Amazon)
+Create a webpage using HTML and CSS
+(Amazon)
