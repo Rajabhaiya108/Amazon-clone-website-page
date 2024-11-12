@@ -1,3 +1,1 @@
-# Amazon-clone-website-page
-Create a webpage using HTML and CSS
-(Amazon)
+create webpage by raja kumar kalinga university
